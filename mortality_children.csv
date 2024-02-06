@@ -1,0 +1,757 @@
+Data_ID,Indicator,SurveyYear,CountryName,AGEGROUP,CAUSE,Value
+1,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,1-59 months,HIV/AIDS,0.10475
+2,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,0-4 years,HIV/AIDS,0.0693
+3,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,1-59 months,Tetanus,0.00078
+4,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,1-59 months,Meningitis/encephalitis,0.01436
+5,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,0-27 days,Acute lower respiratory infections,0.06472
+6,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,1-59 months,Acute lower respiratory infections,0.15171
+7,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,0-27 days,Birth asphyxia and birth trauma,0.25242
+8,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,0-4 years,Sepsis and other infectious conditions of the newborn,0.0372
+9,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,0-27 days,Other Group 1 (postneonatal only),0.037
+10,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,0-4 years,Congenital anomalies,0.04823
+11,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,1-59 months,Injuries,0.0432
+12,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,0-4 years,Injuries,0.03045
+13,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,1-59 months,Diarrhoeal diseases,0.07843
+14,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,1-59 months,Measles,0.48055
+15,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,0-27 days,Malaria,0
+16,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,1-59 months,Malaria,0.0978
+17,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,0-27 days,Prematurity,0.41816
+18,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,0-4 years,Birth asphyxia and birth trauma,0.07267
+19,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,0-27 days,Sepsis and other infectious conditions of the newborn,0.10941
+20,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,0-4 years,Other Group 1 (postneonatal only),0.05305
+21,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,1-59 months,Other noncommunicable diseases (postneonatal only),0.02146
+22,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,0-4 years,Other noncommunicable diseases (postneonatal only),0.01592
+23,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,1-59 months,HIV/AIDS,0.09032
+24,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,1-59 months,Tetanus,0.00054
+25,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,0-27 days,Meningitis/encephalitis,0.0097
+26,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,1-59 months,Meningitis/encephalitis,0.01188
+27,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,0-27 days,Acute lower respiratory infections,0.06543
+28,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,0-4 years,Prematurity,0.12719
+29,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,0-27 days,Birth asphyxia and birth trauma,0.25612
+30,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,0-4 years,Sepsis and other infectious conditions of the newborn,0.03242
+31,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,1-59 months,Congenital anomalies,0.02805
+32,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,0-4 years,Congenital anomalies,0.04302
+33,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,1-59 months,Injuries,0.0357
+34,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,1-59 months,Diarrhoeal diseases,0.09562
+35,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,0-27 days,Measles,0
+36,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,1-59 months,Measles,0.36826
+37,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,0-27 days,Malaria,0
+38,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,0-4 years,Acute lower respiratory infections,0.1149
+39,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,0-27 days,Prematurity,0.40644
+40,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,0-4 years,Birth asphyxia and birth trauma,0.0849
+41,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,1-59 months,Other Group 1 (postneonatal only),0.07662
+42,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,0-4 years,Other Group 1 (postneonatal only),0.06488
+43,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,1-59 months,Other noncommunicable diseases (postneonatal only),0.02823
+44,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,1-59 months,HIV/AIDS,0.10959
+45,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,0-27 days,Tetanus,0.01204
+46,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,1-59 months,Tetanus,0.00057
+47,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,0-27 days,Meningitis/encephalitis,0.00991
+48,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,0-4 years,Malaria,0.04985
+49,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,0-27 days,Acute lower respiratory infections,0.06552
+50,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,0-4 years,Prematurity,0.13813
+51,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,1-59 months,Sepsis and other infectious conditions of the newborn,0
+52,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,0-4 years,Sepsis and other infectious conditions of the newborn,0.03642
+53,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,1-59 months,Congenital anomalies,0.03551
+54,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,1-59 months,Injuries,0.04423
+55,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,0-27 days,Diarrhoeal diseases,0.00603
+56,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,1-59 months,Diarrhoeal diseases,0.14625
+57,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,0-27 days,Measles,0
+58,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,0-4 years,Meningitis/encephalitis,0.01707
+59,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,0-27 days,Malaria,0
+60,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,0-4 years,Acute lower respiratory infections,0.15896
+61,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,1-59 months,Birth asphyxia and birth trauma,0.01771
+62,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,0-4 years,Birth asphyxia and birth trauma,0.11429
+63,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,1-59 months,Other Group 1 (postneonatal only),0.12565
+64,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,1-59 months,Other noncommunicable diseases (postneonatal only),0.04665
+65,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,0-27 days,HIV/AIDS,0.0025
+66,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,1-59 months,HIV/AIDS,0.16443
+67,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,0-27 days,Tetanus,0.01082
+68,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,0-4 years,Measles,0.03507
+69,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,0-27 days,Meningitis/encephalitis,0.01041
+70,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,0-4 years,Malaria,0.0431
+71,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,1-59 months,Prematurity,0.02212
+72,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,0-4 years,Prematurity,0.17058
+73,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,1-59 months,Sepsis and other infectious conditions of the newborn,0
+74,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,1-59 months,Congenital anomalies,0.05322
+75,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,0-27 days,Injuries,0.00756
+76,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,1-59 months,Injuries,0.06539
+77,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,0-27 days,Diarrhoeal diseases,0.00568
+78,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,0-4 years,Tetanus,0.00437
+79,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,0-27 days,Measles,0
+80,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,0-4 years,Meningitis/encephalitis,0.017
+81,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,1-59 months,Acute lower respiratory infections,0.21293
+82,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,0-4 years,Acute lower respiratory infections,0.15448
+83,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,1-59 months,Birth asphyxia and birth trauma,0.01737
+84,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,1-59 months,Other Group 1 (postneonatal only),0.12007
+85,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,0-27 days,Other noncommunicable diseases (postneonatal only),0.00051
+86,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,1-59 months,Other noncommunicable diseases (postneonatal only),0.04582
+87,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,0-27 days,HIV/AIDS,0.00243
+88,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,0-4 years,Diarrhoeal diseases,0.0818
+89,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,0-27 days,Tetanus,0.00923
+90,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,0-4 years,Measles,0.01179
+91,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,1-59 months,Malaria,0.07126
+92,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,0-4 years,Malaria,0.0415
+93,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,1-59 months,Prematurity,0.02347
+94,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,1-59 months,Sepsis and other infectious conditions of the newborn,0
+95,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,0-27 days,Congenital anomalies,0.09407
+96,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,1-59 months,Congenital anomalies,0.05827
+97,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,0-27 days,Injuries,0.00779
+98,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,0-4 years,HIV/AIDS,0.09544
+99,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,0-27 days,Diarrhoeal diseases,0.00531
+100,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,0-4 years,Tetanus,0.00392
+101,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,1-59 months,Meningitis/encephalitis,0.02111
+102,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,0-4 years,Meningitis/encephalitis,0.01656
+103,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,1-59 months,Acute lower respiratory infections,0.2158
+104,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,1-59 months,Birth asphyxia and birth trauma,0.01916
+105,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,0-27 days,Other Group 1 (postneonatal only),0.04148
+106,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,1-59 months,Other Group 1 (postneonatal only),0.13019
+107,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,0-27 days,Other noncommunicable diseases (postneonatal only),0.00056
+108,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,0-4 years,Injuries,0.04506
+109,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,0-27 days,HIV/AIDS,0.0022
+110,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,0-4 years,Diarrhoeal diseases,0.07596
+111,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,1-59 months,Measles,0.06153
+112,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,0-4 years,Measles,0.03587
+113,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,1-59 months,Malaria,0.08323
+114,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,1-59 months,Prematurity,0.02362
+115,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,0-27 days,Sepsis and other infectious conditions of the newborn,0.13184
+116,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,1-59 months,Sepsis and other infectious conditions of the newborn,0
+117,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,0-27 days,Congenital anomalies,0.10047
+118,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,0-4 years,Other noncommunicable diseases (postneonatal only),0.02944
+119,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,0-27 days,Injuries,0.0078
+120,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,0-4 years,HIV/AIDS,0.08872
+121,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,1-59 months,Tetanus,0.00046
+122,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,0-4 years,Tetanus,0.00341
+123,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,1-59 months,Meningitis/encephalitis,0.01624
+124,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,1-59 months,Acute lower respiratory infections,0.18701
+125,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,0-27 days,Birth asphyxia and birth trauma,0.25546
+126,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,1-59 months,Birth asphyxia and birth trauma,0.01889
+127,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,0-27 days,Other Group 1 (postneonatal only),0.042
+128,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,0-4 years,Congenital anomalies,0.07809
+129,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,0-27 days,Other noncommunicable diseases (postneonatal only),0.0006
+130,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,0-4 years,Injuries,0.04574
+131,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,1-59 months,Diarrhoeal diseases,0.11527
+132,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,0-4 years,Diarrhoeal diseases,0.06959
+133,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,1-59 months,Measles,0.10053
+134,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,1-59 months,Malaria,0.09671
+135,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,0-27 days,Prematurity,0.36255
+136,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,1-59 months,Prematurity,0.02335
+137,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,0-27 days,Sepsis and other infectious conditions of the newborn,0.1357
+138,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,0-4 years,Other Group 1 (postneonatal only),0.09233
+139,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,0-27 days,Congenital anomalies,0.10795
+140,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,0-4 years,Other noncommunicable diseases (postneonatal only),0.02894
+141,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,1-59 months,HIV/AIDS,0.14944
+142,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,0-4 years,HIV/AIDS,0.08534
+143,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,1-59 months,Tetanus,0.00047
+144,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,1-59 months,Meningitis/encephalitis,0.01576
+145,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,0-27 days,Acute lower respiratory infections,0.06362
+146,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,1-59 months,Acute lower respiratory infections,0.19243
+147,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,0-27 days,Birth asphyxia and birth trauma,0.25382
+148,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,0-4 years,Sepsis and other infectious conditions of the newborn,0.06056
+149,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,0-27 days,Other Group 1 (postneonatal only),0.04419
+150,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,0-4 years,Congenital anomalies,0.08557
+151,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,1-59 months,Injuries,0.07912
+152,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,0-4 years,Injuries,0.04826
+153,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,1-59 months,Diarrhoeal diseases,0.11747
+154,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,1-59 months,Measles,0.02622
+155,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,0-27 days,Malaria,0
+156,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,1-59 months,Malaria,0.11547
+157,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,0-27 days,Prematurity,0.34964
+158,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,0-4 years,Birth asphyxia and birth trauma,0.12313
+159,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,0-27 days,Sepsis and other infectious conditions of the newborn,0.14272
+160,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,0-4 years,Other Group 1 (postneonatal only),0.09819
+161,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,1-59 months,Other noncommunicable diseases (postneonatal only),0.05369
+162,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,0-4 years,Other noncommunicable diseases (postneonatal only),0.03029
+163,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,1-59 months,HIV/AIDS,0.12296
+164,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,1-59 months,Tetanus,0.00046
+165,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,0-27 days,Meningitis/encephalitis,0.00995
+166,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,1-59 months,Meningitis/encephalitis,0.01566
+167,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,0-27 days,Acute lower respiratory infections,0.06254
+168,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,0-4 years,Prematurity,0.16648
+169,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,0-27 days,Birth asphyxia and birth trauma,0.25082
+170,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,0-4 years,Sepsis and other infectious conditions of the newborn,0.06387
+171,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,1-59 months,Congenital anomalies,0.06741
+172,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,0-4 years,Congenital anomalies,0.09011
+173,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,1-59 months,Injuries,0.08185
+174,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,1-59 months,Diarrhoeal diseases,0.0936
+175,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,0-27 days,Measles,0
+176,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,1-59 months,Measles,0.19809
+177,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,0-27 days,Malaria,0
+178,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,0-4 years,Acute lower respiratory infections,0.12506
+179,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,0-27 days,Prematurity,0.34226
+180,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,0-4 years,Birth asphyxia and birth trauma,0.11172
+181,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,1-59 months,Other Group 1 (postneonatal only),0.12001
+182,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,0-4 years,Other Group 1 (postneonatal only),0.09007
+183,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,1-59 months,Other noncommunicable diseases (postneonatal only),0.04638
+184,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,1-59 months,HIV/AIDS,0.08562
+185,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,0-27 days,Tetanus,0.00493
+186,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,1-59 months,Tetanus,0.00041
+187,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,0-27 days,Meningitis/encephalitis,0.00981
+188,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,0-4 years,Malaria,0.06176
+189,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,0-27 days,Acute lower respiratory infections,0.06194
+190,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,0-4 years,Prematurity,0.15831
+191,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,1-59 months,Sepsis and other infectious conditions of the newborn,0
+192,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,0-4 years,Sepsis and other infectious conditions of the newborn,0.06209
+193,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,1-59 months,Congenital anomalies,0.06367
+194,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,1-59 months,Injuries,0.07725
+195,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,0-4 years,Tetanus,0.0053
+196,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,0-4 years,Measles,0.15571
+197,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,0-4 years,Meningitis/encephalitis,0.01263
+198,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,0-4 years,Malaria,0.10159
+199,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,0-4 years,Acute lower respiratory infections,0.12169
+200,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,0-4 years,Prematurity,0.15588
+201,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,0-4 years,Birth asphyxia and birth trauma,0.09471
+202,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,0-27 days,Other noncommunicable diseases (postneonatal only),0.00036
+203,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,0-27 days,Injuries,0.00625
+204,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,0-27 days,HIV/AIDS,0.00214
+205,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,0-27 days,Diarrhoeal diseases,0.00644
+206,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,0-27 days,Tetanus,0.01349
+207,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,0-27 days,Measles,0
+208,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,1-59 months,Acute lower respiratory infections,0.10496
+209,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,1-59 months,Prematurity,0.01043
+210,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,1-59 months,Birth asphyxia and birth trauma,0.00804
+211,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,1-59 months,Sepsis and other infectious conditions of the newborn,0
+212,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,1-59 months,Other Group 1 (postneonatal only),0.05872
+213,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,1-59 months,Congenital anomalies,0.0235
+214,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,0-4 years,HIV/AIDS,0.0649
+215,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,0-4 years,Diarrhoeal diseases,0.0654
+216,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,0-4 years,Tetanus,0.00414
+217,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,0-4 years,Measles,0.28938
+218,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,0-4 years,Meningitis/encephalitis,0.01125
+219,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,0-4 years,Malaria,0.0693
+220,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,0-4 years,Acute lower respiratory infections,0.10668
+221,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,0-27 days,Sepsis and other infectious conditions of the newborn,0.11233
+222,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,0-27 days,Other Group 1 (postneonatal only),0.03763
+223,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,0-27 days,Congenital anomalies,0.07988
+224,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,0-27 days,Other noncommunicable diseases (postneonatal only),0.0004
+225,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,0-27 days,Injuries,0.00678
+226,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,0-27 days,HIV/AIDS,0.00233
+227,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,0-27 days,Diarrhoeal diseases,0.00622
+228,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,1-59 months,Meningitis/encephalitis,0.0132
+229,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,1-59 months,Malaria,0.08558
+230,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,1-59 months,Acute lower respiratory infections,0.13629
+231,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,1-59 months,Prematurity,0.01376
+232,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,1-59 months,Birth asphyxia and birth trauma,0.01058
+233,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,1-59 months,Sepsis and other infectious conditions of the newborn,0
+234,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,0-4 years,Other noncommunicable diseases (postneonatal only),0.01983
+235,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,0-4 years,Injuries,0.02988
+236,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,0-4 years,HIV/AIDS,0.07563
+237,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,0-4 years,Diarrhoeal diseases,0.07162
+238,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,0-4 years,Tetanus,0.00421
+239,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,0-4 years,Measles,0.22378
+240,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,0-4 years,Meningitis/encephalitis,0.01315
+241,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,0-27 days,Prematurity,0.40316
+242,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,0-27 days,Birth asphyxia and birth trauma,0.25672
+243,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,0-27 days,Sepsis and other infectious conditions of the newborn,0.11497
+244,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,0-27 days,Other Group 1 (postneonatal only),0.0379
+245,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,0-27 days,Congenital anomalies,0.08356
+246,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,0-27 days,Other noncommunicable diseases (postneonatal only),0.00044
+247,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,0-27 days,Injuries,0.00726
+248,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,1-59 months,Tetanus,0.00079
+249,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,1-59 months,Measles,0.02721
+250,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,1-59 months,Meningitis/encephalitis,0.02193
+251,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,1-59 months,Malaria,0.08594
+252,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,1-59 months,Acute lower respiratory infections,0.22252
+253,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,1-59 months,Prematurity,0.02253
+254,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,0-4 years,Other Group 1 (postneonatal only),0.09014
+255,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,0-4 years,Congenital anomalies,0.06652
+256,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,0-4 years,Other noncommunicable diseases (postneonatal only),0.02796
+257,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,0-4 years,Injuries,0.04247
+258,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,0-4 years,HIV/AIDS,0.09986
+259,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,0-4 years,Diarrhoeal diseases,0.08556
+260,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,0-4 years,Tetanus,0.00474
+261,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,0-27 days,Malaria,0
+262,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,0-27 days,Acute lower respiratory infections,0.06551
+263,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,0-27 days,Prematurity,0.39441
+264,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,0-27 days,Birth asphyxia and birth trauma,0.25726
+265,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,0-27 days,Sepsis and other infectious conditions of the newborn,0.11849
+266,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,0-27 days,Other Group 1 (postneonatal only),0.03871
+267,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,0-27 days,Congenital anomalies,0.08799
+268,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,1-59 months,HIV/AIDS,0.16051
+269,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,1-59 months,Diarrhoeal diseases,0.13095
+270,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,1-59 months,Tetanus,0.00063
+271,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,1-59 months,Measles,0.08547
+272,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,1-59 months,Meningitis/encephalitis,0.02148
+273,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,1-59 months,Malaria,0.06532
+274,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,0-4 years,Birth asphyxia and birth trauma,0.11275
+275,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,0-4 years,Sepsis and other infectious conditions of the newborn,0.04865
+276,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,0-4 years,Other Group 1 (postneonatal only),0.08821
+277,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,0-4 years,Congenital anomalies,0.06803
+278,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,0-4 years,Other noncommunicable diseases (postneonatal only),0.02786
+279,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,0-4 years,Injuries,0.04214
+280,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,0-4 years,HIV/AIDS,0.10148
+281,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,0-27 days,Measles,0
+282,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,0-27 days,Meningitis/encephalitis,0.01029
+283,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,0-27 days,Malaria,0
+284,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,0-27 days,Acute lower respiratory infections,0.06536
+285,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,0-27 days,Prematurity,0.37861
+286,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,0-27 days,Birth asphyxia and birth trauma,0.25828
+287,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,0-27 days,Sepsis and other infectious conditions of the newborn,0.12714
+288,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,1-59 months,Other noncommunicable diseases (postneonatal only),0.04985
+289,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,1-59 months,Injuries,0.07081
+290,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,1-59 months,HIV/AIDS,0.16284
+291,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,1-59 months,Diarrhoeal diseases,0.13195
+292,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,1-59 months,Tetanus,0.00056
+293,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,1-59 months,Measles,0.03668
+294,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,0-4 years,Acute lower respiratory infections,0.15255
+295,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,0-4 years,Prematurity,0.1704
+296,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,0-4 years,Birth asphyxia and birth trauma,0.11936
+297,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,0-4 years,Sepsis and other infectious conditions of the newborn,0.05468
+298,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,0-4 years,Other Group 1 (postneonatal only),0.09295
+299,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,0-4 years,Congenital anomalies,0.07532
+300,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,0-4 years,Other noncommunicable diseases (postneonatal only),0.02939
+301,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,0-27 days,Diarrhoeal diseases,0.00519
+302,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,0-27 days,Tetanus,0.00805
+303,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,0-27 days,Measles,0
+304,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,0-27 days,Meningitis/encephalitis,0.01018
+305,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,0-27 days,Malaria,0
+306,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,0-27 days,Acute lower respiratory infections,0.06483
+307,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,0-27 days,Prematurity,0.37059
+308,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,1-59 months,Other Group 1 (postneonatal only),0.12968
+309,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,1-59 months,Congenital anomalies,0.05967
+310,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,1-59 months,Other noncommunicable diseases (postneonatal only),0.0501
+311,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,1-59 months,Injuries,0.07248
+312,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,1-59 months,HIV/AIDS,0.15014
+313,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,1-59 months,Diarrhoeal diseases,0.12114
+314,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,0-4 years,Meningitis/encephalitis,0.01366
+315,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,0-4 years,Malaria,0.05306
+316,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,0-4 years,Acute lower respiratory infections,0.13617
+317,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,0-4 years,Prematurity,0.16627
+318,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,0-4 years,Birth asphyxia and birth trauma,0.11706
+319,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,0-4 years,Sepsis and other infectious conditions of the newborn,0.05532
+320,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,0-27 days,Injuries,0.00779
+321,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,0-27 days,HIV/AIDS,0.00204
+322,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,0-27 days,Diarrhoeal diseases,0.00491
+323,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,0-27 days,Tetanus,0.00702
+324,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,0-27 days,Measles,0
+325,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,0-27 days,Meningitis/encephalitis,0.00992
+326,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,0-27 days,Malaria,0
+327,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,1-59 months,Birth asphyxia and birth trauma,0.01868
+328,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,1-59 months,Sepsis and other infectious conditions of the newborn,0
+329,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,1-59 months,Other Group 1 (postneonatal only),0.12732
+330,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,1-59 months,Congenital anomalies,0.05963
+331,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,1-59 months,Other noncommunicable diseases (postneonatal only),0.04894
+332,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,1-59 months,Injuries,0.07255
+333,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,0-4 years,Tetanus,0.00302
+334,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,0-4 years,Measles,0.01806
+335,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,0-4 years,Meningitis/encephalitis,0.01323
+336,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,0-4 years,Malaria,0.06224
+337,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,0-4 years,Acute lower respiratory infections,0.13645
+338,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,0-4 years,Prematurity,0.16868
+339,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,0-27 days,Congenital anomalies,0.11216
+340,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,0-27 days,Other noncommunicable diseases (postneonatal only),0.00064
+341,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,0-27 days,Injuries,0.0081
+342,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,0-27 days,HIV/AIDS,0.00179
+343,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,0-27 days,Diarrhoeal diseases,0.0045
+344,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,0-27 days,Tetanus,0.00572
+345,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,0-27 days,Measles,0
+346,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,1-59 months,Acute lower respiratory infections,0.19619
+347,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,1-59 months,Prematurity,0.02568
+348,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,1-59 months,Birth asphyxia and birth trauma,0.02078
+349,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,1-59 months,Sepsis and other infectious conditions of the newborn,0
+350,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,1-59 months,Other Group 1 (postneonatal only),0.13988
+351,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,1-59 months,Congenital anomalies,0.06707
+352,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,0-4 years,HIV/AIDS,0.0696
+353,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,0-4 years,Diarrhoeal diseases,0.0649
+354,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,0-4 years,Tetanus,0.00259
+355,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,0-4 years,Measles,0.02821
+356,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,0-4 years,Meningitis/encephalitis,0.01315
+357,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,0-4 years,Malaria,0.06493
+358,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,0-27 days,Sepsis and other infectious conditions of the newborn,0.14527
+359,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,0-27 days,Other Group 1 (postneonatal only),0.04594
+360,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,0-27 days,Congenital anomalies,0.11905
+361,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,0-27 days,Other noncommunicable diseases (postneonatal only),0.00067
+362,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,0-27 days,Injuries,0.00842
+363,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,0-27 days,HIV/AIDS,0.0013
+364,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,0-27 days,Diarrhoeal diseases,0.00422
+365,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,1-59 months,Meningitis/encephalitis,0.01348
+366,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,1-59 months,Malaria,0.1006
+367,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,1-59 months,Acute lower respiratory infections,0.16824
+368,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,1-59 months,Prematurity,0.02221
+369,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,1-59 months,Birth asphyxia and birth trauma,0.018
+370,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,1-59 months,Sepsis and other infectious conditions of the newborn,0
+371,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,0-4 years,Other noncommunicable diseases (postneonatal only),0.02781
+372,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,0-4 years,Injuries,0.04609
+373,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,0-4 years,HIV/AIDS,0.04994
+374,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,0-4 years,Diarrhoeal diseases,0.05731
+375,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,0-4 years,Tetanus,0.00232
+376,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,0-4 years,Measles,0.09056
+377,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,0-27 days,Prematurity,0.34226
+378,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,0-27 days,Birth asphyxia and birth trauma,0.24871
+379,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,0-27 days,Sepsis and other infectious conditions of the newborn,0.14696
+380,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,0-27 days,Other Group 1 (postneonatal only),0.0463
+381,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,0-27 days,Congenital anomalies,0.12453
+382,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,0-27 days,Other noncommunicable diseases (postneonatal only),0.00067
+383,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,0-27 days,Injuries,0.00849
+384,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,1-59 months,Diarrhoeal diseases,0.1169
+385,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,0-4 years,Diarrhoeal diseases,0.07881
+386,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,1-59 months,Measles,0.23774
+387,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,0-27 days,Malaria,0
+388,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,1-59 months,Malaria,0.15511
+389,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,0-27 days,Prematurity,0.42345
+390,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,0-27 days,Sepsis and other infectious conditions of the newborn,0.10782
+391,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,0-4 years,Other Group 1 (postneonatal only),0.06811
+392,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,0-27 days,Congenital anomalies,0.07626
+393,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,0-4 years,Other noncommunicable diseases (postneonatal only),0.02039
+394,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,1-59 months,HIV/AIDS,0.07547
+395,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,0-4 years,HIV/AIDS,0.05619
+396,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,1-59 months,Tetanus,0.0005
+397,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,0-27 days,Meningitis/encephalitis,0.00946
+398,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,1-59 months,Meningitis/encephalitis,0.01003
+399,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,0-27 days,Acute lower respiratory infections,0.06502
+400,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,0-27 days,Birth asphyxia and birth trauma,0.25388
+401,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,0-4 years,Sepsis and other infectious conditions of the newborn,0.02876
+402,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,0-27 days,Other Group 1 (postneonatal only),0.03715
+403,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,0-4 years,Congenital anomalies,0.03782
+404,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,1-59 months,Injuries,0.03012
+405,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,0-4 years,Injuries,0.02391
+406,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,1-59 months,Diarrhoeal diseases,0.08938
+407,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,0-27 days,Measles,0
+408,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,1-59 months,Measles,0.40681
+409,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,0-27 days,Malaria,0
+410,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,0-27 days,Prematurity,0.41015
+411,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,0-4 years,Birth asphyxia and birth trauma,0.08068
+412,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,0-4 years,Other Group 1 (postneonatal only),0.06007
+413,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,1-59 months,Other noncommunicable diseases (postneonatal only),0.02544
+414,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,0-4 years,Other noncommunicable diseases (postneonatal only),0.01821
+415,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,1-59 months,HIV/AIDS,0.09982
+416,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,0-27 days,Tetanus,0.01249
+417,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,1-59 months,Tetanus,0.00056
+418,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,0-27 days,Meningitis/encephalitis,0.00991
+419,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,0-27 days,Acute lower respiratory infections,0.06551
+420,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,0-4 years,Prematurity,0.13241
+421,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,0-4 years,Sepsis and other infectious conditions of the newborn,0.03434
+422,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,1-59 months,Congenital anomalies,0.03172
+423,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,0-4 years,Congenital anomalies,0.04681
+424,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,1-59 months,Injuries,0.03977
+425,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,0-27 days,Diarrhoeal diseases,0.00613
+426,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,1-59 months,Diarrhoeal diseases,0.10199
+427,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,0-27 days,Measles,0
+428,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,0-27 days,Malaria,0
+429,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,0-4 years,Acute lower respiratory infections,0.12332
+430,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,0-4 years,Birth asphyxia and birth trauma,0.08933
+431,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,1-59 months,Other Group 1 (postneonatal only),0.08456
+432,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,0-4 years,Other Group 1 (postneonatal only),0.06978
+433,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,1-59 months,Other noncommunicable diseases (postneonatal only),0.03132
+434,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,0-27 days,HIV/AIDS,0.00242
+435,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,1-59 months,HIV/AIDS,0.16305
+436,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,0-27 days,Tetanus,0.01158
+437,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,0-27 days,Meningitis/encephalitis,0.00992
+438,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,0-4 years,Malaria,0.05117
+439,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,0-4 years,Prematurity,0.17565
+440,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,1-59 months,Sepsis and other infectious conditions of the newborn,0
+441,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,0-4 years,Sepsis and other infectious conditions of the newborn,0.04685
+442,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,1-59 months,Congenital anomalies,0.05352
+443,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,0-27 days,Injuries,0.00748
+444,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,1-59 months,Injuries,0.06625
+445,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,0-27 days,Diarrhoeal diseases,0.00587
+446,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,0-27 days,Measles,0
+447,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,0-4 years,Meningitis/encephalitis,0.0172
+448,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,0-4 years,Acute lower respiratory infections,0.15691
+449,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,1-59 months,Birth asphyxia and birth trauma,0.01748
+450,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,0-4 years,Birth asphyxia and birth trauma,0.1131
+451,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,1-59 months,Other Group 1 (postneonatal only),0.12313
+452,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,0-27 days,Other noncommunicable diseases (postneonatal only),0.00049
+453,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,1-59 months,Other noncommunicable diseases (postneonatal only),0.04585
+454,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,0-27 days,HIV/AIDS,0.00247
+455,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,0-27 days,Tetanus,0.01005
+456,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,0-4 years,Measles,0.05159
+457,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,0-4 years,Malaria,0.03943
+458,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,1-59 months,Prematurity,0.02164
+459,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,0-4 years,Prematurity,0.16635
+460,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,1-59 months,Sepsis and other infectious conditions of the newborn,0
+461,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,0-27 days,Congenital anomalies,0.0909
+462,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,1-59 months,Congenital anomalies,0.05302
+463,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,0-27 days,Injuries,0.00767
+464,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,0-27 days,Diarrhoeal diseases,0.00548
+465,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,0-4 years,Tetanus,0.00422
+466,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,0-4 years,Meningitis/encephalitis,0.01748
+467,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,1-59 months,Acute lower respiratory infections,0.22514
+468,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,0-4 years,Acute lower respiratory infections,0.15841
+469,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,1-59 months,Birth asphyxia and birth trauma,0.01894
+470,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,0-27 days,Other Group 1 (postneonatal only),0.04077
+471,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,1-59 months,Other Group 1 (postneonatal only),0.12973
+472,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,0-27 days,Other noncommunicable diseases (postneonatal only),0.00054
+473,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,0-27 days,HIV/AIDS,0.00227
+474,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,0-4 years,Diarrhoeal diseases,0.07879
+475,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,0-4 years,Measles,0.02128
+476,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,1-59 months,Malaria,0.07636
+477,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,0-4 years,Malaria,0.04431
+478,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,1-59 months,Prematurity,0.02363
+479,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,0-27 days,Sepsis and other infectious conditions of the newborn,0.13026
+480,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,1-59 months,Sepsis and other infectious conditions of the newborn,0
+481,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,0-27 days,Congenital anomalies,0.09722
+482,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,0-27 days,Injuries,0.00784
+483,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,0-4 years,HIV/AIDS,0.09157
+484,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,0-4 years,Tetanus,0.00365
+485,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,1-59 months,Meningitis/encephalitis,0.0184
+486,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,0-4 years,Meningitis/encephalitis,0.01497
+487,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,1-59 months,Acute lower respiratory infections,0.1996
+488,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,0-27 days,Birth asphyxia and birth trauma,0.25662
+489,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,1-59 months,Birth asphyxia and birth trauma,0.01906
+490,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,0-27 days,Other Group 1 (postneonatal only),0.04166
+491,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,0-4 years,Congenital anomalies,0.07669
+492,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,0-27 days,Other noncommunicable diseases (postneonatal only),0.00058
+493,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,0-4 years,Injuries,0.0455
+494,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,0-4 years,Diarrhoeal diseases,0.07298
+495,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,1-59 months,Measles,0.08108
+496,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,0-4 years,Measles,0.04744
+497,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,1-59 months,Malaria,0.09069
+498,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,0-27 days,Prematurity,0.36748
+499,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,1-59 months,Prematurity,0.02353
+500,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,0-27 days,Sepsis and other infectious conditions of the newborn,0.13331
+501,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,0-4 years,Other Group 1 (postneonatal only),0.09279
+502,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,0-27 days,Congenital anomalies,0.10405
+503,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,0-4 years,Other noncommunicable diseases (postneonatal only),0.02929
+504,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,0-4 years,HIV/AIDS,0.08454
+505,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,1-59 months,Tetanus,0.00044
+506,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,0-4 years,Tetanus,0.00316
+507,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,1-59 months,Meningitis/encephalitis,0.01486
+508,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,0-27 days,Acute lower respiratory infections,0.0641
+509,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,1-59 months,Acute lower respiratory infections,0.17892
+510,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,0-27 days,Birth asphyxia and birth trauma,0.25455
+511,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,0-4 years,Sepsis and other infectious conditions of the newborn,0.05617
+512,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,0-27 days,Other Group 1 (postneonatal only),0.0428
+513,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,0-4 years,Congenital anomalies,0.07963
+514,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,0-4 years,Injuries,0.04576
+515,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,1-59 months,Diarrhoeal diseases,0.1199
+516,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,0-4 years,Diarrhoeal diseases,0.06983
+517,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,1-59 months,Measles,0.03194
+518,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,0-27 days,Malaria,0
+519,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,1-59 months,Malaria,0.11009
+520,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,0-27 days,Prematurity,0.35522
+521,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,0-4 years,Birth asphyxia and birth trauma,0.12176
+522,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,0-27 days,Sepsis and other infectious conditions of the newborn,0.13933
+523,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,0-4 years,Other Group 1 (postneonatal only),0.09696
+524,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,0-4 years,Other noncommunicable diseases (postneonatal only),0.03007
+525,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,1-59 months,HIV/AIDS,0.13966
+526,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,0-4 years,HIV/AIDS,0.07882
+527,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,1-59 months,Tetanus,0.00047
+528,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,0-27 days,Meningitis/encephalitis,0.00994
+529,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,1-59 months,Meningitis/encephalitis,0.01591
+530,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,0-27 days,Acute lower respiratory infections,0.06311
+531,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,0-4 years,Prematurity,0.16863
+532,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,0-27 days,Birth asphyxia and birth trauma,0.25273
+533,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,0-4 years,Sepsis and other infectious conditions of the newborn,0.06298
+534,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,0-4 years,Congenital anomalies,0.08843
+535,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,1-59 months,Injuries,0.0815
+536,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,0-4 years,Injuries,0.04921
+537,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,1-59 months,Diarrhoeal diseases,0.1124
+538,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,0-27 days,Measles,0
+539,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,1-59 months,Measles,0.05035
+540,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,0-27 days,Malaria,0
+541,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,0-4 years,Acute lower respiratory infections,0.13649
+542,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,0-27 days,Prematurity,0.34612
+543,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,0-4 years,Birth asphyxia and birth trauma,0.1219
+544,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,0-4 years,Other Group 1 (postneonatal only),0.09794
+545,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,1-59 months,Other noncommunicable diseases (postneonatal only),0.05348
+546,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,0-4 years,Other noncommunicable diseases (postneonatal only),0.03026
+547,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,1-59 months,HIV/AIDS,0.08811
+548,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,0-27 days,Tetanus,0.00493
+549,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,1-59 months,Tetanus,0.00039
+550,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,0-27 days,Meningitis/encephalitis,0.00985
+551,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,0-4 years,Malaria,0.05973
+552,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,0-27 days,Acute lower respiratory infections,0.06194
+553,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,0-4 years,Prematurity,0.15222
+554,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,0-4 years,Sepsis and other infectious conditions of the newborn,0.05963
+555,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,1-59 months,Congenital anomalies,0.05906
+556,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,0-4 years,Congenital anomalies,0.08565
+557,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,1-59 months,Injuries,0.07181
+558,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,0-27 days,Diarrhoeal diseases,0.00422
+559,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,1-59 months,Diarrhoeal diseases,0.09616
+560,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,0-27 days,Measles,0
+561,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,0-4 years,Meningitis/encephalitis,0.01237
+562,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,0-27 days,Malaria,0
+563,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,0-4 years,Acute lower respiratory infections,0.12938
+564,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,0-4 years,Birth asphyxia and birth trauma,0.11619
+565,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,1-59 months,Other Group 1 (postneonatal only),0.12771
+566,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,0-4 years,Other Group 1 (postneonatal only),0.09331
+567,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,1-59 months,Other noncommunicable diseases (postneonatal only),0.04949
+568,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,0-27 days,HIV/AIDS,0.00201
+569,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,0-27 days,Diarrhoeal diseases,0.00652
+570,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,0-27 days,Tetanus,0.01386
+571,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,0-27 days,Measles,0
+572,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,0-27 days,Meningitis/encephalitis,0.00934
+573,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,1-59 months,Prematurity,0.01492
+574,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,1-59 months,Birth asphyxia and birth trauma,0.01163
+575,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,1-59 months,Sepsis and other infectious conditions of the newborn,0
+576,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,1-59 months,Other Group 1 (postneonatal only),0.0845
+577,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,1-59 months,Congenital anomalies,0.03346
+578,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,1-59 months,Other noncommunicable diseases (postneonatal only),0.03094
+579,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,0-4 years,Diarrhoeal diseases,0.0595
+580,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,0-4 years,Tetanus,0.00391
+581,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,0-4 years,Measles,0.35422
+582,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,0-4 years,Meningitis/encephalitis,0.00988
+583,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,0-4 years,Malaria,0.07209
+584,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,0-4 years,Acute lower respiratory infections,0.09446
+585,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,0-4 years,Prematurity,0.11761
+586,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,0-27 days,Congenital anomalies,0.07799
+587,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,0-27 days,Other noncommunicable diseases (postneonatal only),0.00038
+588,Distribution of causes of death among children aged < 5 years (%),2001,Gabon,0-27 days,Injuries,0.00648
+589,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,0-27 days,HIV/AIDS,0.00225
+590,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,0-27 days,Diarrhoeal diseases,0.00632
+591,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,0-27 days,Tetanus,0.01301
+592,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,1-59 months,Malaria,0.09742
+593,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,1-59 months,Acute lower respiratory infections,0.12342
+594,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,1-59 months,Prematurity,0.01236
+595,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,1-59 months,Birth asphyxia and birth trauma,0.00948
+596,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,1-59 months,Sepsis and other infectious conditions of the newborn,0
+597,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,1-59 months,Other Group 1 (postneonatal only),0.06918
+598,Distribution of causes of death among children aged < 5 years (%),2002,Gabon,0-4 years,Injuries,0.02735
+599,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,0-4 years,HIV/AIDS,0.07036
+600,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,0-4 years,Diarrhoeal diseases,0.06861
+601,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,0-4 years,Tetanus,0.00416
+602,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,0-4 years,Measles,0.25699
+603,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,0-4 years,Meningitis/encephalitis,0.01221
+604,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,0-4 years,Malaria,0.05972
+605,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,0-27 days,Birth asphyxia and birth trauma,0.25656
+606,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,0-27 days,Sepsis and other infectious conditions of the newborn,0.11366
+607,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,0-27 days,Other Group 1 (postneonatal only),0.03778
+608,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,0-27 days,Congenital anomalies,0.08167
+609,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,0-27 days,Other noncommunicable diseases (postneonatal only),0.00042
+610,Distribution of causes of death among children aged < 5 years (%),2003,Gabon,0-27 days,Injuries,0.00702
+611,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,0-27 days,HIV/AIDS,0.00239
+612,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,1-59 months,Measles,0.32753
+613,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,1-59 months,Meningitis/encephalitis,0.01465
+614,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,1-59 months,Malaria,0.07296
+615,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,1-59 months,Acute lower respiratory infections,0.15012
+616,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,1-59 months,Prematurity,0.01526
+617,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,1-59 months,Birth asphyxia and birth trauma,0.01172
+618,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,0-4 years,Congenital anomalies,0.05073
+619,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,0-4 years,Other noncommunicable diseases (postneonatal only),0.02154
+620,Distribution of causes of death among children aged < 5 years (%),2004,Gabon,0-4 years,Injuries,0.03252
+621,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,0-4 years,HIV/AIDS,0.09806
+622,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,0-4 years,Diarrhoeal diseases,0.08951
+623,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,0-4 years,Tetanus,0.00515
+624,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,0-4 years,Measles,0.0162
+625,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,0-27 days,Acute lower respiratory infections,0.06544
+626,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,0-27 days,Prematurity,0.40094
+627,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,0-27 days,Birth asphyxia and birth trauma,0.25639
+628,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,0-27 days,Sepsis and other infectious conditions of the newborn,0.11579
+629,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,0-27 days,Other Group 1 (postneonatal only),0.03788
+630,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,0-27 days,Congenital anomalies,0.08565
+631,Distribution of causes of death among children aged < 5 years (%),2005,Gabon,0-27 days,Other noncommunicable diseases (postneonatal only),0.00046
+632,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,1-59 months,Diarrhoeal diseases,0.13842
+633,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,1-59 months,Tetanus,0.00071
+634,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,1-59 months,Measles,0.05834
+635,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,1-59 months,Meningitis/encephalitis,0.0217
+636,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,1-59 months,Malaria,0.07168
+637,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,1-59 months,Acute lower respiratory infections,0.21754
+638,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,0-4 years,Sepsis and other infectious conditions of the newborn,0.04725
+639,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,0-4 years,Other Group 1 (postneonatal only),0.08946
+640,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,0-4 years,Congenital anomalies,0.06709
+641,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,0-4 years,Other noncommunicable diseases (postneonatal only),0.02776
+642,Distribution of causes of death among children aged < 5 years (%),2006,Gabon,0-4 years,Injuries,0.04233
+643,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,0-4 years,HIV/AIDS,0.09786
+644,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,0-4 years,Diarrhoeal diseases,0.08129
+645,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,0-27 days,Meningitis/encephalitis,0.01019
+646,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,0-27 days,Malaria,0
+647,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,0-27 days,Acute lower respiratory infections,0.06549
+648,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,0-27 days,Prematurity,0.38666
+649,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,0-27 days,Birth asphyxia and birth trauma,0.25797
+650,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,0-27 days,Sepsis and other infectious conditions of the newborn,0.12272
+651,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,0-27 days,Other Group 1 (postneonatal only),0.03969
+652,Distribution of causes of death among children aged < 5 years (%),2007,Gabon,1-59 months,Injuries,0.06477
+653,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,1-59 months,HIV/AIDS,0.17251
+654,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,1-59 months,Diarrhoeal diseases,0.13653
+655,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,1-59 months,Tetanus,0.00062
+656,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,1-59 months,Measles,0.02025
+657,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,1-59 months,Meningitis/encephalitis,0.02263
+658,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,0-4 years,Prematurity,0.17178
+659,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,0-4 years,Birth asphyxia and birth trauma,0.11889
+660,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,0-4 years,Sepsis and other infectious conditions of the newborn,0.0531
+661,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,0-4 years,Other Group 1 (postneonatal only),0.09258
+662,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,0-4 years,Congenital anomalies,0.07322
+663,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,0-4 years,Other noncommunicable diseases (postneonatal only),0.02926
+664,Distribution of causes of death among children aged < 5 years (%),2008,Gabon,0-4 years,Injuries,0.04449
+665,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,0-27 days,Tetanus,0.00856
+666,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,0-27 days,Measles,0
+667,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,0-27 days,Meningitis/encephalitis,0.01026
+668,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,0-27 days,Malaria,0
+669,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,0-27 days,Acute lower respiratory infections,0.06513
+670,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,0-27 days,Prematurity,0.37324
+671,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,0-27 days,Birth asphyxia and birth trauma,0.25786
+672,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,1-59 months,Congenital anomalies,0.05948
+673,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,1-59 months,Other noncommunicable diseases (postneonatal only),0.05024
+674,Distribution of causes of death among children aged < 5 years (%),2009,Gabon,1-59 months,Injuries,0.07199
+675,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,1-59 months,HIV/AIDS,0.15553
+676,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,1-59 months,Diarrhoeal diseases,0.1266
+677,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,1-59 months,Tetanus,0.0005
+678,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,0-4 years,Malaria,0.04851
+679,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,0-4 years,Acute lower respiratory infections,0.14338
+680,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,0-4 years,Prematurity,0.16835
+681,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,0-4 years,Birth asphyxia and birth trauma,0.11816
+682,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,0-4 years,Sepsis and other infectious conditions of the newborn,0.05499
+683,Distribution of causes of death among children aged < 5 years (%),2010,Gabon,0-4 years,Other Group 1 (postneonatal only),0.09296
+684,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,0-27 days,HIV/AIDS,0.00214
+685,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,0-27 days,Diarrhoeal diseases,0.00507
+686,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,0-27 days,Tetanus,0.00758
+687,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,0-27 days,Measles,0
+688,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,0-27 days,Meningitis/encephalitis,0.01004
+689,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,0-27 days,Malaria,0
+690,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,0-27 days,Acute lower respiratory infections,0.06449
+691,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,1-59 months,Sepsis and other infectious conditions of the newborn,0
+692,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,1-59 months,Other Group 1 (postneonatal only),0.12883
+693,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,1-59 months,Congenital anomalies,0.05967
+694,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,1-59 months,Other noncommunicable diseases (postneonatal only),0.04965
+695,Distribution of causes of death among children aged < 5 years (%),2011,Gabon,1-59 months,Injuries,0.07267
+696,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,1-59 months,HIV/AIDS,0.14282
+697,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,0-4 years,Measles,0.05892
+698,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,0-4 years,Meningitis/encephalitis,0.01282
+699,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,0-4 years,Malaria,0.05668
+700,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,0-4 years,Acute lower respiratory infections,0.13139
+701,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,0-4 years,Prematurity,0.16376
+702,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,0-4 years,Birth asphyxia and birth trauma,0.11632
+703,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,0-27 days,Other noncommunicable diseases (postneonatal only),0.00062
+704,Distribution of causes of death among children aged < 5 years (%),2012,Gabon,0-27 days,Injuries,0.00784
+705,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,0-27 days,HIV/AIDS,0.00196
+706,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,0-27 days,Diarrhoeal diseases,0.00469
+707,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,0-27 days,Tetanus,0.00633
+708,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,0-27 days,Measles,0
+709,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,0-27 days,Meningitis/encephalitis,0.00993
+710,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,1-59 months,Prematurity,0.02527
+711,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,1-59 months,Birth asphyxia and birth trauma,0.02024
+712,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,1-59 months,Sepsis and other infectious conditions of the newborn,0
+713,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,1-59 months,Other Group 1 (postneonatal only),0.13753
+714,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,1-59 months,Congenital anomalies,0.06512
+715,Distribution of causes of death among children aged < 5 years (%),2013,Gabon,1-59 months,Other noncommunicable diseases (postneonatal only),0.05269
+716,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,0-4 years,Diarrhoeal diseases,0.06762
+717,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,0-4 years,Tetanus,0.00279
+718,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,0-4 years,Measles,0.01465
+719,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,0-4 years,Meningitis/encephalitis,0.01328
+720,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,0-4 years,Malaria,0.06452
+721,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,0-4 years,Acute lower respiratory infections,0.13747
+722,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,0-27 days,Other Group 1 (postneonatal only),0.04539
+723,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,0-27 days,Congenital anomalies,0.11549
+724,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,0-27 days,Other noncommunicable diseases (postneonatal only),0.00066
+725,Distribution of causes of death among children aged < 5 years (%),2014,Gabon,0-27 days,Injuries,0.00832
+726,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,0-27 days,HIV/AIDS,0.00158
+727,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,0-27 days,Diarrhoeal diseases,0.00435
+728,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,0-27 days,Tetanus,0.0053
+729,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,1-59 months,Malaria,0.11588
+730,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,1-59 months,Acute lower respiratory infections,0.19452
+731,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,1-59 months,Prematurity,0.02554
+732,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,1-59 months,Birth asphyxia and birth trauma,0.02075
+733,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,1-59 months,Sepsis and other infectious conditions of the newborn,0
+734,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,1-59 months,Other Group 1 (postneonatal only),0.13874
+735,Distribution of causes of death among children aged < 5 years (%),2015,Gabon,0-4 years,Injuries,0.04957
+736,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,0-4 years,HIV/AIDS,0.05285
+737,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,0-4 years,Diarrhoeal diseases,0.05729
+738,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,0-4 years,Tetanus,0.00223
+739,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,0-4 years,Measles,0.11762
+740,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,0-4 years,Meningitis/encephalitis,0.01201
+741,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,0-27 days,Birth asphyxia and birth trauma,0.24871
+742,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,0-27 days,Sepsis and other infectious conditions of the newborn,0.14679
+743,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,0-27 days,Other Group 1 (postneonatal only),0.0463
+744,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,0-27 days,Congenital anomalies,0.12453
+745,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,0-27 days,Other noncommunicable diseases (postneonatal only),0.00067
+746,Distribution of causes of death among children aged < 5 years (%),2016,Gabon,0-27 days,Injuries,0.00849
+747,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,0-27 days,HIV/AIDS,0.00118
+748,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,1-59 months,Measles,0.15681
+749,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,1-59 months,Meningitis/encephalitis,0.01424
+750,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,1-59 months,Malaria,0.10695
+751,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,1-59 months,Acute lower respiratory infections,0.17873
+752,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,1-59 months,Prematurity,0.02374
+753,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,1-59 months,Birth asphyxia and birth trauma,0.01924
+754,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,0-4 years,Congenital anomalies,0.08938
+755,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,0-4 years,Other noncommunicable diseases (postneonatal only),0.02887
+756,Distribution of causes of death among children aged < 5 years (%),2017,Gabon,0-4 years,Injuries,0.0482
