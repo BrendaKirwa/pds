@@ -1,4 +1,5 @@
 Data_ID,Indicator,SurveyYear,CountryName,AGEGROUP,CAUSE,Value
+,,,,,,
 1,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,1-59 months,HIV/AIDS,0.10475
 2,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,0-4 years,HIV/AIDS,0.0693
 3,Distribution of causes of death among children aged < 5 years (%),2000,Gabon,1-59 months,Tetanus,0.00078
